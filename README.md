@@ -13,7 +13,7 @@ A grneral and practical MEV detection framwork in Ethereum
 
 ## Phase 3: MEV FSS Research
 
-An similar soulution:
+An reference solution:
 
 `Fair Sequencing Services (FSS) : Chainlink’s functionality to bring
 blockchain users the innovation of first-come, first-serve services like the kind
@@ -21,4 +21,4 @@ you can get at a deli. FSS helps prevent front-running and other schemes that
 arbitrageurs use to gain a technical advantage over ordinary users in existing
 smart contract systems.`
 
-[Chainlink 2.0](https://research.chain.link/whitepaper-v2.pdf?_ga=2.97907478.841565633.1676138657-1750611021.1675375190)
+Described in [Chainlink 2.0](https://research.chain.link/whitepaper-v2.pdf?_ga=2.97907478.841565633.1676138657-1750611021.1675375190)
